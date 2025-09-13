@@ -1,0 +1,21 @@
+project_root/
+└── src/
+    ├── common.h
+    ├── lexer/
+    │   ├── Lexer.h
+    │   └── Lexer.cpp
+    ├── ast/
+    │   ├── AST.h
+    │   └── AST.cpp
+    ├── parser/
+    │   ├── Parser.h
+    │   └── Parser.cpp
+    ├── interpreter/
+    │   ├── Interpreter.h
+    │   └── Interpreter.cpp
+    ├── example/
+    │   └── hello.mc 
+    ├── main.cpp
+    ├── Makefile
+    ├── README.txt
+    └── pgsql.txt
